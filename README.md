@@ -1,3 +1,2 @@
 ## Hi 👋
-
-I created several [Kaggle](https://github.com/ssnajme/kaggle-notebooks) notebooks and delivered  multiple [presentations](https://github.com/ssnajme/Presentations-Collection)
+I am an early career research scientist with experience in creating and analyzing various data types. I have effectively presented findings to diverse audiences through multiple [presentations](https://github.com/ssnajme/Presentations-Collection). I aim to leverage my analytical expertise in an academic data science and machine learning role, actively engaging with projects and [Kaggle](https://github.com/ssnajme/kaggle-notebooks) notebooks to stay up-to-date and contribute to open-source. 
